@@ -35,9 +35,6 @@ npm create vite@latest
 npm run dev
 open http://localhost:5173
 
-7. Default Admin credentials:
-Email: quizmaster1502@gmail.com
-Password: admin1234*
+7. Register as user for user tasks
 
-8. Register as user for user tasks
 
