@@ -1,5 +1,5 @@
 
-# App development 2 Project - Quiz Master App 
+# App development Project - Quiz Master App 
 # How to run the code
 
 1. Create virtual Environment:
@@ -35,6 +35,7 @@ npm run dev
 open http://localhost:5173
 
 7. Register as user for user tasks
+
 
 
 
