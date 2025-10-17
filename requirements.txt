@@ -1,8 +1,0 @@
-flask
-flask-sqlalchemy
-flask_security_too
-flask_restful
-flask_cors
-flask_mail
-Celery
-redis
