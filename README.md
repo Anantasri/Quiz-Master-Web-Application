@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-#Quiz Master Application - v2
+
 # App development 2 Project - Quiz Master App 
 # How to run the code
 
@@ -36,5 +35,6 @@ npm run dev
 open http://localhost:5173
 
 7. Register as user for user tasks
+
 
 
